@@ -1,0 +1,5 @@
+{
+  "name": "Data Ingestion Gatekeeper",
+  "description": "An application to transform messy financial documents into a structured, transaction-first Markdown schema using Gemini. Upload a document to extract and format transactions automatically.",
+  "requestFramePermissions": []
+}
